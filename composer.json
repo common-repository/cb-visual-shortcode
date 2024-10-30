@@ -1,0 +1,10 @@
+{
+    "name" : "Visual Shortcode",
+    "Description" : "Turns textual Wordpress Post Shortcodes into Visual Shortcode, allow users to change shortcode attributes with using simple web form",
+    "version" : "0.5.0",
+    "autoload" : 
+    {
+        "classmap" : ["Includes/", "Installer/", "Services/", "Views/", "vendor/CBPoint/VSFramework/"]
+    }
+    
+}

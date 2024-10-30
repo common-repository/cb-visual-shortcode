@@ -1,0 +1,39 @@
+#cb-visual-shortcode-live-simple-form
+{
+    display: none;
+}
+
+.cb-visual-shortcode-pm-get-pro-block {
+    margin-top: 20px;
+}
+
+.cb-visual-shortcode-pm-get-pro-block ul.addons {
+    padding: 18px 33px;
+    background-color: #219ac5;
+    color: white;
+}
+.cb-visual-shortcode-pm-get-pro-block ul li span {
+    padding: 7px 6px;
+    display: block;
+}
+
+.cb-visual-shortcode-pm-get-pro-block ul.addons a,
+.cb-visual-shortcode-pm-get-pro-block ul.addons a:visited
+{
+    color: #08e6ff;    
+}
+
+
+.cb-visual-shortcode-pm-get-pro-block ul.addons a:hover
+{
+    
+}
+
+/* Fix  Shortcode Dialog */
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
+    z-index: 100000;
+}
+
+.ui-widget-overlay {
+    z-index: 99999;
+}

@@ -1,0 +1,24 @@
+.cb-visual-shortcode-wrapper
+{
+    padding: 4px 4px;
+    background-color: #0a88ce;
+    width: 62px;
+    height: 56px;
+    cursor: pointer !important;
+}
+
+.cb-visual-shortcode-wrapper .cb-visual-shortcode-name
+{
+    background-color: #244463;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.cb-visual-shortcode-wrapper .cb-visual-shortcode-shortcode
+{
+    display: none;
+}
